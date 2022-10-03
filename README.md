@@ -13,12 +13,13 @@ docker pull sakupi/nasa-app
 ```
 docker run -it -p [unused local port number]:8080 [image name]
 ```
-## Reach the application via Web browser
+## Reach to the application via browser
 Well done!
 Now, you can reach your app through the link.
 ```
 http://localhost:[your port number]/
 ```
+#### OR You're also able to build the image by yourself form the given Dockerfile.
 
 # typescript
 
