@@ -9,7 +9,7 @@ docker pull sakupi/nasa-app
 --- Can be skipped ---
 
 ## Run the application by the pulled image
-⚠️ Please make sure that you'll under your app's working directory.
+⚠️ Please make sure that you're under your app's working directory.
 ```
 docker run -it -p [unused local port number]:8080 [image name]
 ```
